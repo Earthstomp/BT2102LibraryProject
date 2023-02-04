@@ -1,0 +1,2 @@
+INSERT INTO `bookupdated` (`AccessionNumber`, `Title`, `Author1`, `Author2`, `Author3`, `ISBN`, `Publisher`, `PublicationYear`, `BorrowDate`, `ReserveDate`, `ReturnDate`, `DueDate`, `MemberBorrowID`,`MemberReserveID`) VALUES 
+("A42","Notes on Thermodynamics and Statistics","Enrico Fermi","","","9790000000042","University of Chicago Press","1988",null,null,null,null,null,null)
